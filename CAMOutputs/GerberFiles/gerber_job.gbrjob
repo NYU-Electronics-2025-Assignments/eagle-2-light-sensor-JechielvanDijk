@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-02-28T21:01:30Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "light sensor basic"
+        },
+        "Owner": "jechiel van Dijk <Jv2346@nyu.edu>",
+        "Size": {
+            "X": 83.2,
+            "Y": 57.8
+        }
+    }
+}
